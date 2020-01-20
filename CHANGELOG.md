@@ -2,7 +2,8 @@ CHANGELOG
 =========
 
 ## HEAD (Unreleased)
-_(none)_
+
+* Added support for .NET with the `Pulumi.Terraform` NuGet package
 
 ---
 
